@@ -1,0 +1,35 @@
+#  Базовый адрес для журналов
+base_res_url: 'https://www.nature.com'
+# Базовый адрес списка статей (***** - заменяются на текстовый идентификатор журнала в ссылке)
+base_list_url: "https://www.nature.com/*****/articles?searchType=journalSearch&sort=PubDate&page="
+# Текстовый идентификатор журнала
+journal_sub_url: ["bdjopen", "bcj", "boneres", "celldisc", "commschem",
+                  "commsphys", "cddis", "cddiscovery", "commsbio"]
+# Странички журналов
+pagers: ["1-2,5,7,4,25", "1-2", "1-5", "1-6", "1-5",
+         "1-5", "1-104", "1-10", "1-13"]
+# Имена журналов
+names: ['bdj_open', "blood_cancer_journal",
+        "bone_research", "cell_discovery",
+        "communications_chemistry", "communications_physics",
+        "cell_death_and_disease", "cell_death_discovery", "communications_biology"]
+# Путь для загрузки
+download_paths: '/home/polyakov/jo2'
+# Дарайвер загрузчика
+driver: 'web_drivers/chromedriver_linux64/chromedriver'
+# Формат сохранения
+save_to: "csv"
+# Место сохранения
+metadata: {'csv': "/home/polyakov/jo2/"}
+# Метод создания метадаты
+metadata_method: ["new", "append", "append",
+                  "append", "append", "append",
+                  "append", "append", "append"]
+# Задержка после каждой статьи, сек
+article_delay: 0
+# Задержка после журнала, сек
+journal_delay: 20
+# Показывать браузер
+show_browser: "true"
+# Страница настроек браузера
+browser_settings_page: 'chrome://settings/content/pdfDocuments'

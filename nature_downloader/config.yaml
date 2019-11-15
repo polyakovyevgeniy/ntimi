@@ -1,0 +1,4 @@
+# Источники
+sources: ["nature_free"]
+# Конфигурация источников
+configs: ["sources/configs/nature_free.yaml"]
