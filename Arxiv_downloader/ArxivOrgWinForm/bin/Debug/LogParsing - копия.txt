@@ -1,0 +1,674 @@
+13.10.2019 23:35:38 => Приложение запущено
+
+13.10.2019 23:35:41 => Start hoarding
+13.10.2019 23:36:03 => Error retrieving data from source https://arxiv.org/abs/0704.1016 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+13.10.2019 23:36:03 => Stop hoarding
+13.10.2019 23:36:07 => Start hoarding
+13.10.2019 23:36:16 => Error retrieving data from source https://arxiv.org/abs/0704.1016 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+13.10.2019 23:36:16 => Stop hoarding
+13.10.2019 23:37:16 => Start hoarding
+13.10.2019 23:37:56 => Error retrieving data from source https://arxiv.org/abs/0704.1016 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+13.10.2019 23:37:56 => Stop hoarding
+13.10.2019 23:38:01 => Start hoarding
+14.10.2019 0:00:31 => Приложение запущено
+
+14.10.2019 0:00:32 => Start hoarding
+14.10.2019 0:04:50 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:04:50 => Stop hoarding
+14.10.2019 0:05:05 => Start hoarding
+14.10.2019 0:05:40 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:05:40 => Stop hoarding
+14.10.2019 0:06:12 => Start hoarding
+14.10.2019 0:06:43 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:06:43 => Stop hoarding
+14.10.2019 0:07:06 => Start hoarding
+14.10.2019 0:08:26 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:08:26 => Stop hoarding
+14.10.2019 0:08:31 => Start hoarding
+14.10.2019 0:10:19 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:10:19 => Stop hoarding
+14.10.2019 0:10:55 => Start hoarding
+14.10.2019 0:11:20 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:11:20 => Stop hoarding
+14.10.2019 0:24:24 => Start hoarding
+14.10.2019 0:25:31 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:25:31 => Stop hoarding
+14.10.2019 0:26:46 => Приложение запущено
+
+14.10.2019 0:26:47 => Start hoarding
+14.10.2019 0:27:06 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:27:06 => Stop hoarding
+14.10.2019 0:30:17 => Приложение запущено
+
+14.10.2019 0:30:18 => Start hoarding
+14.10.2019 0:30:51 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:30:51 => Stop hoarding
+14.10.2019 0:33:14 => Приложение запущено
+
+14.10.2019 0:33:23 => Start hoarding
+14.10.2019 0:34:31 => Error retrieving data from source https://arxiv.org/abs/0704.1020 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 0:34:31 => Stop hoarding
+14.10.2019 8:57:09 => Приложение запущено
+
+14.10.2019 8:57:12 => Start hoarding
+14.10.2019 9:03:55 => Приложение запущено
+
+14.10.2019 9:03:56 => Start hoarding
+14.10.2019 9:08:32 => Stop hoarding
+14.10.2019 9:09:57 => Приложение запущено
+
+14.10.2019 9:09:58 => Start hoarding
+14.10.2019 9:10:12 => Stop hoarding
+14.10.2019 9:12:35 => Приложение запущено
+
+14.10.2019 9:12:36 => Start hoarding
+14.10.2019 9:13:12 => Stop hoarding
+14.10.2019 9:35:22 => Приложение запущено
+
+14.10.2019 9:35:23 => Start hoarding
+14.10.2019 9:36:34 => Stop hoarding
+14.10.2019 9:42:00 => Приложение запущено
+
+14.10.2019 9:42:02 => Start hoarding
+14.10.2019 9:44:20 => Stop hoarding
+14.10.2019 9:49:41 => Приложение запущено
+
+14.10.2019 9:49:42 => Start hoarding
+14.10.2019 10:02:50 => Stop hoarding
+14.10.2019 10:05:14 => Приложение запущено
+
+14.10.2019 10:05:15 => Start hoarding
+14.10.2019 10:06:00 => Stop hoarding
+14.10.2019 10:06:28 => Приложение запущено
+
+14.10.2019 10:06:37 => Start hoarding
+14.10.2019 10:07:42 => Stop hoarding
+14.10.2019 10:08:17 => Приложение запущено
+
+14.10.2019 10:08:18 => Start hoarding
+14.10.2019 10:09:07 => Stop hoarding
+14.10.2019 10:09:34 => Приложение запущено
+
+14.10.2019 10:09:38 => Start hoarding
+14.10.2019 10:20:23 => Stop hoarding
+14.10.2019 10:20:25 => Start hoarding
+14.10.2019 10:20:45 => Stop hoarding
+14.10.2019 10:20:48 => Start hoarding
+14.10.2019 10:20:59 => Stop hoarding
+14.10.2019 10:21:01 => Start hoarding
+14.10.2019 10:21:13 => Stop hoarding
+14.10.2019 10:21:39 => Приложение запущено
+
+14.10.2019 10:21:40 => Start hoarding
+14.10.2019 10:21:54 => Stop hoarding
+14.10.2019 10:36:29 => Приложение запущено
+
+14.10.2019 10:36:36 => Start hoarding
+14.10.2019 10:36:51 => Stop hoarding
+14.10.2019 10:37:05 => Start hoarding
+14.10.2019 10:37:18 => Stop hoarding
+14.10.2019 10:37:40 => Start hoarding
+14.10.2019 10:39:30 => Приложение запущено
+
+14.10.2019 10:39:44 => Start hoarding
+14.10.2019 10:40:10 => Stop hoarding
+14.10.2019 10:45:36 => Приложение запущено
+
+14.10.2019 10:45:38 => Start hoarding
+14.10.2019 10:46:10 => Stop hoarding
+14.10.2019 10:46:54 => Приложение запущено
+
+14.10.2019 10:46:55 => Start hoarding
+14.10.2019 10:47:23 => Stop hoarding
+14.10.2019 10:47:25 => Start hoarding
+14.10.2019 10:48:27 => Stop hoarding
+14.10.2019 10:50:22 => Приложение запущено
+
+14.10.2019 10:50:24 => Start hoarding
+14.10.2019 10:51:23 => Stop hoarding
+14.10.2019 10:52:35 => Приложение запущено
+
+14.10.2019 10:52:37 => Start hoarding
+14.10.2019 10:53:04 => Stop hoarding
+14.10.2019 10:53:40 => Приложение запущено
+
+14.10.2019 10:53:41 => Start hoarding
+14.10.2019 10:58:55 => Stop hoarding
+14.10.2019 11:00:43 => Приложение запущено
+
+14.10.2019 11:00:46 => Start hoarding
+14.10.2019 11:38:36 => Error retrieving data from source https://arxiv.org/abs/0704.00671 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 11:38:36 => Stop hoarding
+14.10.2019 11:38:45 => Start hoarding
+14.10.2019 11:39:02 => Error retrieving data from source https://arxiv.org/abs/0704.00671 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 11:39:02 => Stop hoarding
+14.10.2019 11:42:33 => Приложение запущено
+
+14.10.2019 11:42:34 => Start hoarding
+14.10.2019 12:07:22 => Приложение запущено
+
+14.10.2019 12:07:24 => Start hoarding
+14.10.2019 12:15:45 => Error retrieving data from source https://arxiv.org/abs/0704.00872 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 12:15:45 => Stop hoarding
+14.10.2019 12:17:44 => Start hoarding
+14.10.2019 12:18:23 => Error retrieving data from source https://arxiv.org/abs/0704.00872 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 12:18:23 => Stop hoarding
+14.10.2019 12:21:37 => Start hoarding
+14.10.2019 13:22:39 => Error retrieving data from source https://arxiv.org/abs/0704.01042 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 13:22:39 => Stop hoarding
+14.10.2019 13:22:54 => Start hoarding
+14.10.2019 13:33:14 => Error retrieving data from source https://arxiv.org/abs/0704.01213 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 13:33:14 => Stop hoarding
+14.10.2019 13:47:11 => Start hoarding
+14.10.2019 13:47:20 => Error retrieving data from source https://arxiv.org/abs/0704.01213 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 13:47:20 => Stop hoarding
+14.10.2019 13:47:22 => Start hoarding
+14.10.2019 13:47:30 => Error retrieving data from source https://arxiv.org/abs/0704.01213 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 13:47:30 => Stop hoarding
+14.10.2019 13:53:29 => Start hoarding
+14.10.2019 14:04:34 => Error retrieving data from source https://arxiv.org/abs/0704.01318 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:04:34 => Stop hoarding
+14.10.2019 14:07:00 => Start hoarding
+14.10.2019 14:07:12 => Error retrieving data from source https://arxiv.org/abs/0704.01318 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:07:12 => Stop hoarding
+14.10.2019 14:07:14 => Start hoarding
+14.10.2019 14:07:23 => Error retrieving data from source https://arxiv.org/abs/0704.01318 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:07:23 => Stop hoarding
+14.10.2019 14:07:39 => Start hoarding
+14.10.2019 14:07:48 => Error retrieving data from source https://arxiv.org/abs/0704.01318 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:07:48 => Stop hoarding
+14.10.2019 14:09:23 => Start hoarding
+14.10.2019 14:28:03 => Error retrieving data from source https://arxiv.org/abs/0704.01387 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:28:03 => Stop hoarding
+14.10.2019 14:29:10 => Start hoarding
+14.10.2019 14:41:41 => Error retrieving data from source https://arxiv.org/abs/0704.01459 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+14.10.2019 14:41:41 => Stop hoarding
+15.10.2019 21:26:22 => Приложение запущено
+
+15.10.2019 21:28:09 => Приложение запущено
+
+15.10.2019 21:30:03 => Приложение запущено
+
+15.10.2019 21:33:25 => Start hoarding
+15.10.2019 21:36:53 => Приложение запущено
+
+15.10.2019 21:36:54 => Start hoarding
+15.10.2019 21:37:19 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:59076
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+15.10.2019 21:37:19 => Stop hoarding
+15.10.2019 21:38:02 => Приложение запущено
+
+15.10.2019 21:39:10 => Приложение запущено
+
+15.10.2019 21:39:12 => Start hoarding
+15.10.2019 21:39:23 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:59187
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+15.10.2019 21:39:23 => Stop hoarding
+15.10.2019 21:41:24 => Приложение запущено
+
+15.10.2019 21:41:41 => Приложение запущено
+
+15.10.2019 21:41:42 => Start hoarding
+15.10.2019 21:42:06 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:59250
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+15.10.2019 21:42:06 => Stop hoarding
+15.10.2019 21:46:03 => Приложение запущено
+
+15.10.2019 21:46:10 => Start hoarding
+15.10.2019 21:46:21 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:59362
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+15.10.2019 21:46:21 => Stop hoarding
+15.10.2019 21:47:02 => Приложение запущено
+
+15.10.2019 21:47:05 => Start hoarding
+15.10.2019 21:47:16 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:59390
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+15.10.2019 21:47:19 => Stop hoarding
+15.10.2019 21:49:28 => Приложение запущено
+
+15.10.2019 21:49:44 => Start hoarding
+15.10.2019 21:51:10 => Приложение запущено
+
+15.10.2019 21:51:11 => Start hoarding
+15.10.2019 21:51:54 => Приложение запущено
+
+15.10.2019 21:51:55 => Start hoarding
+15.10.2019 21:52:08 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 21:52:10 => Stop hoarding
+15.10.2019 21:53:38 => Приложение запущено
+
+15.10.2019 21:53:41 => Start hoarding
+15.10.2019 21:53:54 => Error retrieving data from source https://arxiv.org/abs/0704.00001 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 21:53:58 => Stop hoarding
+15.10.2019 21:57:09 => Приложение запущено
+
+15.10.2019 21:57:10 => Start hoarding
+15.10.2019 22:02:41 => Приложение запущено
+
+15.10.2019 22:02:42 => Start hoarding
+15.10.2019 22:03:46 => Stop hoarding
+15.10.2019 22:06:06 => Приложение запущено
+
+15.10.2019 22:07:02 => Start hoarding
+15.10.2019 22:10:04 => Page not found - https://arxiv.org/abs/0704.0900115.10.2019 22:12:37 => Приложение запущено
+
+15.10.2019 22:12:40 => Start hoarding
+15.10.2019 22:14:28 => Page not found - https://arxiv.org/abs/0704.0900115.10.2019 22:15:22 => Page not found - https://arxiv.org/abs/0705.0900115.10.2019 22:15:33 => Page not found - https://arxiv.org/abs/0706.0900115.10.2019 22:15:34 => Page not found - https://arxiv.org/abs/0707.0900115.10.2019 22:15:36 => Page not found - https://arxiv.org/abs/0708.0900115.10.2019 22:15:37 => Page not found - https://arxiv.org/abs/0709.0900115.10.2019 22:15:38 => Page not found - https://arxiv.org/abs/0710.0900115.10.2019 22:15:40 => Page not found - https://arxiv.org/abs/0711.0900115.10.2019 22:15:41 => Page not found - https://arxiv.org/abs/0712.0900115.10.2019 22:17:57 => Приложение запущено
+
+15.10.2019 22:17:58 => Start hoarding
+15.10.2019 22:18:07 => Page not found - https://arxiv.org/abs/0704.0900115.10.2019 22:21:12 => Приложение запущено
+
+15.10.2019 22:21:14 => Start hoarding
+15.10.2019 22:21:22 => Page not found - https://arxiv.org/abs/0704.0900115.10.2019 22:21:38 => Stop hoarding
+15.10.2019 22:22:29 => Start hoarding
+15.10.2019 22:22:46 => Stop hoarding
+15.10.2019 22:22:48 => Start hoarding
+15.10.2019 22:23:06 => Stop hoarding
+15.10.2019 22:23:08 => Start hoarding
+15.10.2019 22:23:21 => Stop hoarding
+15.10.2019 22:27:01 => Приложение запущено
+
+15.10.2019 22:27:19 => Start hoarding
+15.10.2019 22:27:49 => Page not found - https://arxiv.org/abs/0712.0900115.10.2019 22:30:21 => Приложение запущено
+
+15.10.2019 22:30:24 => Start hoarding
+15.10.2019 22:30:42 => Page not found - https://arxiv.org/abs/0712.0900115.10.2019 22:34:17 => Приложение запущено
+
+15.10.2019 22:34:18 => Start hoarding
+15.10.2019 22:34:42 => Page not found - https://arxiv.org/abs/0712.0900115.10.2019 22:37:45 => Stop hoarding
+15.10.2019 22:39:08 => Приложение запущено
+
+15.10.2019 22:39:11 => Start hoarding
+15.10.2019 22:39:24 => Приложение запущено
+
+15.10.2019 22:39:36 => Приложение запущено
+
+15.10.2019 22:39:42 => Start hoarding
+15.10.2019 22:39:58 => Stop hoarding
+15.10.2019 22:43:59 => Приложение запущено
+
+15.10.2019 22:44:00 => Start hoarding
+15.10.2019 22:45:28 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:45:29 => Stop hoarding
+15.10.2019 22:45:38 => Start hoarding
+15.10.2019 22:47:44 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:47:44 => Stop hoarding
+15.10.2019 22:48:29 => Start hoarding
+15.10.2019 22:49:54 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:49:54 => Stop hoarding
+15.10.2019 22:50:26 => Start hoarding
+15.10.2019 22:52:51 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:52:51 => Stop hoarding
+15.10.2019 22:54:19 => Приложение запущено
+
+15.10.2019 22:54:20 => Start hoarding
+15.10.2019 22:54:33 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:54:33 => Stop hoarding
+15.10.2019 22:55:40 => Приложение запущено
+
+15.10.2019 22:55:42 => Start hoarding
+15.10.2019 22:56:55 => Error retrieving data from source https://arxiv.org/abs/0801.00003 : no such element: Unable to locate element: {"method":"css selector","selector":"div.subheader>h1"}
+  (Session info: headless chrome=77.0.3865.90)
+15.10.2019 22:56:55 => Stop hoarding
+15.10.2019 23:10:03 => Приложение запущено
+
+15.10.2019 23:10:07 => Start hoarding
+15.10.2019 23:11:42 => No connection! Waiting for connect : https://arxiv.org/abs/0801.0000315.10.2019 23:12:28 => Приложение запущено
+
+15.10.2019 23:12:29 => Start hoarding
+15.10.2019 23:12:40 => No connection! Waiting for connect : https://arxiv.org/abs/0801.0000315.10.2019 23:13:23 => No connection! Waiting for connect : https://arxiv.org/abs/0801.0000315.10.2019 23:14:39 => No connection! Waiting for connect : https://arxiv.org/abs/0801.0000315.10.2019 23:32:40 => Приложение запущено
+
+15.10.2019 23:32:53 => Start hoarding
+15.10.2019 23:33:43 => No connection! https://arxiv.org/abs/0712.0900315.10.2019 23:34:05 => No connection! https://arxiv.org/abs/0712.0900315.10.2019 23:35:10 => Page not found : https://arxiv.org/abs/0712.0900315.10.2019 23:37:46 => Stop hoarding
+15.10.2019 23:38:16 => Start hoarding
+15.10.2019 23:38:33 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:38:39 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:38:45 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:38:51 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:38:57 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:39:03 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:39:10 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:39:16 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:39:22 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:41:58 => Приложение запущено
+
+15.10.2019 23:41:59 => Start hoarding
+15.10.2019 23:42:02 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:42:12 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:42:18 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:42:24 => Stop hoarding
+15.10.2019 23:42:36 => Start hoarding
+15.10.2019 23:42:39 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:42:48 => No connection! https://arxiv.org/abs/0801.0000315.10.2019 23:43:59 => No connection! https://arxiv.org/abs/0801.0000815.10.2019 23:44:05 => No connection! https://arxiv.org/abs/0801.0000815.10.2019 23:44:11 => No connection! https://arxiv.org/abs/0801.0000815.10.2019 23:44:18 => No connection! https://arxiv.org/abs/0801.0000815.10.2019 23:47:40 => Error retrieving data from source https://arxiv.org/abs/0801.00010 : The HTTP request to the remote WebDriver server for URL http://localhost:50173/session/78a4ca74ca85dff4984eb8c38a5d0932/url timed out after 60 seconds.
+15.10.2019 23:47:40 => Stop hoarding
+15.10.2019 23:51:39 => Приложение запущено
+
+15.10.2019 23:51:40 => Start hoarding
+15.10.2019 23:51:46 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:51:55 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:52:08 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:52:21 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:52:33 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:52:42 => No connection! https://arxiv.org/abs/0801.0001015.10.2019 23:54:01 => No connection! https://arxiv.org/abs/0801.0001215.10.2019 23:54:10 => No connection! https://arxiv.org/abs/0801.0001215.10.2019 23:54:37 => No connection! https://arxiv.org/abs/0801.0001215.10.2019 23:54:48 => No connection! https://arxiv.org/abs/0801.0001215.10.2019 23:55:48 => No connection! https://arxiv.org/abs/0801.0001715.10.2019 23:56:59 => No connection! https://arxiv.org/abs/0801.0001915.10.2019 23:57:05 => No connection! https://arxiv.org/abs/0801.0001915.10.2019 23:57:11 => No connection! https://arxiv.org/abs/0801.0001916.10.2019 0:01:14 => Error retrieving data from source https://arxiv.org/abs/0801.00021 : The HTTP request to the remote WebDriver server for URL http://localhost:50778/session/aeb27c09829e8fe0080021b044b44008/url timed out after 60 seconds.
+16.10.2019 0:01:14 => Stop hoarding
+16.10.2019 0:03:47 => Приложение запущено
+
+16.10.2019 0:03:49 => Start hoarding
+16.10.2019 0:04:23 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:04:29 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:04:35 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:04:41 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:04:47 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:04:54 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:05:00 => No connection! https://arxiv.org/abs/0801.0002416.10.2019 0:05:32 => No connection! https://arxiv.org/abs/0801.0002516.10.2019 0:05:38 => No connection! https://arxiv.org/abs/0801.0002516.10.2019 0:05:46 => No connection! https://arxiv.org/abs/0801.0002516.10.2019 0:05:53 => No connection! https://arxiv.org/abs/0801.0002516.10.2019 0:06:24 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:06:30 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:06:37 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:06:43 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:06:49 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:06:55 => No connection! https://arxiv.org/abs/0801.0002716.10.2019 0:07:37 => No connection! https://arxiv.org/abs/0801.0002816.10.2019 0:07:43 => Stop hoarding
+16.10.2019 0:08:21 => Приложение запущено
+
+16.10.2019 0:08:24 => Start hoarding
+16.10.2019 0:08:49 => No connection! https://arxiv.org/abs/0801.0002916.10.2019 0:08:55 => No connection! https://arxiv.org/abs/0801.0002916.10.2019 0:09:02 => No connection! https://arxiv.org/abs/0801.0002916.10.2019 0:09:08 => No connection! https://arxiv.org/abs/0801.0002916.10.2019 0:09:15 => No connection! https://arxiv.org/abs/0801.0002916.10.2019 0:09:45 => No connection! https://arxiv.org/abs/0801.0003016.10.2019 0:09:51 => No connection! https://arxiv.org/abs/0801.0003016.10.2019 0:09:57 => No connection! https://arxiv.org/abs/0801.0003016.10.2019 0:10:03 => No connection! https://arxiv.org/abs/0801.0003016.10.2019 0:10:09 => No connection! https://arxiv.org/abs/0801.0003016.10.2019 0:10:46 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:10:52 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:10:58 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:04 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:10 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:16 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:22 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:28 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:35 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:41 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:47 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:53 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:11:59 => No connection! https://arxiv.org/abs/0801.0003216.10.2019 0:12:40 => No connection! https://arxiv.org/abs/0801.0003616.10.2019 0:12:47 => No connection! https://arxiv.org/abs/0801.0003616.10.2019 0:14:28 => HTTP timed out! https://arxiv.org/abs/0801.0003916.10.2019 0:15:11 => Stop hoarding
+16.10.2019 8:32:38 => Приложение запущено
+
+16.10.2019 8:32:40 => Start hoarding
+16.10.2019 8:32:50 => Page not found : https://arxiv.org/abs/0812.0900116.10.2019 8:33:19 => Stop hoarding
+16.10.2019 8:59:16 => Приложение запущено
+
+16.10.2019 8:59:17 => Start hoarding
+16.10.2019 9:00:27 => No connection! https://arxiv.org/abs/0901.0002716.10.2019 9:00:54 => No connection! https://arxiv.org/abs/0901.0002716.10.2019 9:01:21 => No connection! https://arxiv.org/abs/0901.0002716.10.2019 9:02:56 => No connection! https://arxiv.org/abs/0901.0004816.10.2019 9:03:23 => No connection! https://arxiv.org/abs/0901.0004816.10.2019 9:03:53 => Stop hoarding
+16.10.2019 9:03:57 => Start hoarding
+16.10.2019 9:04:05 => Stop hoarding
+16.10.2019 9:36:29 => Приложение запущено
+
+16.10.2019 9:43:58 => Start hoarding
+16.10.2019 9:44:06 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:44:17 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:44:42 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:45:08 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:47:27 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:47:54 => No connection! https://arxiv.org/abs/0901.0006016.10.2019 9:48:30 => Stop hoarding
+16.10.2019 10:19:29 => Приложение запущено
+
+16.10.2019 10:19:30 => Start hoarding
+16.10.2019 10:21:35 => Stop hoarding
+16.10.2019 10:22:08 => Приложение запущено
+
+16.10.2019 10:22:27 => Приложение запущено
+
+16.10.2019 10:22:28 => Start hoarding
+16.10.2019 10:24:07 => Stop hoarding
+16.10.2019 10:24:38 => Приложение запущено
+
+16.10.2019 10:24:40 => Start hoarding
+16.10.2019 10:27:07 => Stop hoarding
+16.10.2019 10:27:13 => Start hoarding
+16.10.2019 10:27:36 => No connection! https://arxiv.org/abs/0704.0015916.10.2019 10:28:04 => No connection! https://arxiv.org/abs/0704.0015916.10.2019 10:28:31 => No connection! https://arxiv.org/abs/0704.0015916.10.2019 10:30:01 => Stop hoarding
+16.10.2019 10:30:26 => Start hoarding
+16.10.2019 10:33:33 => Stop hoarding
+16.10.2019 10:34:08 => Приложение запущено
+
+16.10.2019 10:36:02 => Приложение запущено
+
+16.10.2019 10:36:03 => Start hoarding
+16.10.2019 10:38:29 => Error retrieving data from source https://arxiv.org/abs/0704.00165 : Удаленный сервер возвратил ошибку: (403) Запрещено.
+16.10.2019 10:38:29 => Stop hoarding
+16.10.2019 10:46:50 => Start hoarding
+16.10.2019 10:49:46 => Error retrieving data from source https://arxiv.org/abs/0704.00165 : Удаленный сервер возвратил ошибку: (403) Запрещено.
+16.10.2019 10:49:46 => Stop hoarding
+16.10.2019 10:50:44 => Приложение запущено
+
+16.10.2019 10:50:46 => Start hoarding
+16.10.2019 10:52:10 => Error retrieving data from source https://arxiv.org/abs/0704.00165 : Удаленный сервер возвратил ошибку: (403) Запрещено.
+16.10.2019 10:52:10 => Stop hoarding
+16.10.2019 11:02:51 => Приложение запущено
+
+16.10.2019 11:02:52 => Start hoarding
+16.10.2019 11:04:00 => Error retrieving data from source https://arxiv.org/abs/0704.00165 : Удаленный сервер возвратил ошибку: (403) Запрещено.
+16.10.2019 11:04:00 => Stop hoarding
+16.10.2019 11:04:36 => Приложение запущено
+
+16.10.2019 11:04:37 => Start hoarding
+16.10.2019 11:04:45 => No connection! https://arxiv.org/abs/0704.0016516.10.2019 11:04:55 => No connection! https://arxiv.org/abs/0704.0016516.10.2019 11:05:38 => Error retrieving data from source https://arxiv.org/abs/0704.00165 : Удаленный сервер возвратил ошибку: (403) Запрещено.
+16.10.2019 11:05:38 => Stop hoarding
+16.10.2019 12:11:57 => Приложение запущено
+
+16.10.2019 12:11:59 => Start hoarding
+16.10.2019 12:13:12 => Stop hoarding
+16.10.2019 12:13:41 => Приложение запущено
+
+16.10.2019 12:13:43 => Start hoarding
+16.10.2019 12:16:24 => Stop hoarding
+16.10.2019 12:22:40 => Приложение запущено
+
+16.10.2019 12:22:41 => Start hoarding
+16.10.2019 12:24:01 => Error retrieving data from source https://arxiv.org/abs/0704.00167 : Исключение во время запроса WebClient.
+16.10.2019 12:24:01 => Stop hoarding
+16.10.2019 12:33:20 => Приложение запущено
+
+16.10.2019 12:33:21 => Start hoarding
+16.10.2019 12:37:26 => Stop hoarding
+16.10.2019 12:38:31 => Start hoarding
+16.10.2019 12:42:47 => Stop hoarding
+16.10.2019 12:44:14 => Приложение запущено
+
+16.10.2019 12:44:15 => Start hoarding
+16.10.2019 12:47:07 => Stop hoarding
+16.10.2019 12:51:08 => Приложение запущено
+
+16.10.2019 12:51:09 => Start hoarding
+16.10.2019 12:52:49 => Stop hoarding
+16.10.2019 13:03:50 => Приложение запущено
+
+16.10.2019 13:03:55 => Start hoarding
+16.10.2019 13:06:09 => Stop hoarding
+16.10.2019 13:08:57 => Приложение запущено
+
+16.10.2019 13:08:58 => Start hoarding
+16.10.2019 13:09:43 => Stop hoarding
+16.10.2019 13:10:33 => Приложение запущено
+
+16.10.2019 13:10:35 => Start hoarding
+16.10.2019 13:11:37 => Stop hoarding
+16.10.2019 13:14:46 => Приложение запущено
+
+16.10.2019 13:14:47 => Start hoarding
+16.10.2019 13:15:33 => Stop hoarding
+16.10.2019 13:20:43 => Приложение запущено
+
+16.10.2019 13:20:45 => Start hoarding
+16.10.2019 13:21:27 => Stop hoarding
+16.10.2019 13:21:41 => Приложение запущено
+
+16.10.2019 13:21:43 => Start hoarding
+16.10.2019 13:23:31 => Unable to download file! https://arxiv.org/abs/0711.0019816.10.2019 13:23:33 => No connection! https://arxiv.org/abs/0711.0019916.10.2019 13:23:39 => No connection! https://arxiv.org/abs/0711.0019916.10.2019 13:23:45 => No connection! https://arxiv.org/abs/0711.0019916.10.2019 13:24:26 => Stop hoarding
+16.10.2019 13:31:04 => Приложение запущено
+
+16.10.2019 13:31:06 => Start hoarding
+16.10.2019 13:48:52 => Error retrieving data from source https://arxiv.org/abs/0711.00272 : startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+16.10.2019 13:48:52 => Stop hoarding
+16.10.2019 13:49:19 => Start hoarding
+16.10.2019 13:51:41 => Error retrieving data from source https://arxiv.org/abs/0711.00272 : startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+16.10.2019 13:51:41 => Stop hoarding
+16.10.2019 13:52:00 => Start hoarding
+16.10.2019 13:55:24 => Error retrieving data from source https://arxiv.org/abs/0711.00272 : startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+16.10.2019 13:55:24 => Stop hoarding
+16.10.2019 13:55:30 => Start hoarding
+16.10.2019 14:40:12 => Приложение запущено
+
+16.10.2019 14:40:14 => Start hoarding
+16.10.2019 14:51:05 => Stop hoarding
+16.10.2019 15:07:48 => Приложение запущено
+
+16.10.2019 15:07:56 => Start hoarding
+16.10.2019 15:08:04 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:08:14 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:08:46 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:13:41 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:13:47 => Stop hoarding
+16.10.2019 15:14:33 => Приложение запущено
+
+16.10.2019 15:14:35 => Start hoarding
+16.10.2019 15:38:56 => Приложение запущено
+
+16.10.2019 15:38:57 => Start hoarding
+16.10.2019 15:39:24 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:39:38 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:39:44 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:39:50 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:39:56 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:40:02 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:40:36 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:40:42 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:40:48 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:40:54 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:41:00 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:41:06 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:41:20 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:41:26 => Stop hoarding
+16.10.2019 15:43:56 => Приложение запущено
+
+16.10.2019 15:44:11 => Start hoarding
+16.10.2019 15:44:37 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:44:48 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:44:58 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:45:08 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 15:45:14 => Stop hoarding
+16.10.2019 20:11:41 => Приложение запущено
+
+16.10.2019 20:11:47 => Start hoarding
+16.10.2019 20:12:50 => No connection! https://arxiv.org/abs/0711.0027416.10.2019 20:16:56 => Stop hoarding
+16.10.2019 20:27:17 => Приложение запущено
+
+16.10.2019 20:27:22 => Start hoarding
+16.10.2019 20:28:00 => Stop hoarding
+16.10.2019 20:42:44 => Приложение запущено
+
+16.10.2019 20:42:48 => Start hoarding
+16.10.2019 20:44:36 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:45:50 => Stop hoarding
+16.10.2019 20:49:21 => Приложение запущено
+
+16.10.2019 20:49:24 => Start hoarding
+16.10.2019 20:50:01 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:50:12 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:50:22 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:50:33 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:50:43 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:50:53 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:51:09 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:51:19 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:51:30 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:51:40 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:51:51 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:01 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:12 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:22 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:33 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:43 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:52:57 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:53:07 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:53:17 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:53:28 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:58:01 => Приложение запущено
+
+16.10.2019 20:58:03 => Start hoarding
+16.10.2019 20:58:13 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:58:14 => Stop hoarding
+16.10.2019 20:58:37 => Приложение запущено
+
+16.10.2019 20:58:38 => Start hoarding
+16.10.2019 20:58:56 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:00 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:05 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:09 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:14 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:18 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:23 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:28 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:32 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:37 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:41 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:46 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:50 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:55 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 20:59:59 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:00:04 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:00:08 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:00:13 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:00:17 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:00:35 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:11:00 => Приложение запущено
+
+16.10.2019 21:11:10 => Start hoarding
+16.10.2019 21:11:48 => Error retrieving data from source  : Поток StandardIn не был перенаправлен.
+16.10.2019 21:11:53 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:12:53 => Error retrieving data from source https://arxiv.org/abs/0711.00278 : Поток StandardIn не был перенаправлен.
+16.10.2019 21:13:25 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:13:50 => Error retrieving data from source https://arxiv.org/abs/0711.00278 : Поток StandardIn не был перенаправлен.
+16.10.2019 21:14:12 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:15:04 => Error retrieving data from source https://arxiv.org/abs/0711.00278 : Поток StandardIn не был перенаправлен.
+16.10.2019 21:15:28 => No connection! https://arxiv.org/abs/0711.0027816.10.2019 21:15:51 => Error retrieving data from source https://arxiv.org/abs/0711.00278 : Поток StandardIn не был перенаправлен.
+16.10.2019 21:33:29 => Приложение запущено
+
+16.10.2019 21:33:30 => Start hoarding
+16.10.2019 21:42:56 => Error retrieving data from source  : Поток StandardIn не был перенаправлен.
+16.10.2019 21:46:46 => Приложение запущено
+
+16.10.2019 21:46:48 => Start hoarding
+16.10.2019 21:48:11 => Приложение запущено
+
+16.10.2019 21:48:12 => Start hoarding
+16.10.2019 21:48:22 => Error retrieving data from source  : Для перенаправления потоков ввода/вывода для свойства UseShellExecute объекта Process должно быть задано значение 'false'.
+16.10.2019 21:48:34 => Приложение запущено
+
+16.10.2019 21:48:35 => Start hoarding
+16.10.2019 21:50:50 => Приложение запущено
+
+16.10.2019 21:50:51 => Start hoarding
+16.10.2019 21:51:20 => Error retrieving data from source  : Поток StandardOut не был перенаправлен или процесс еще не был запущен.
+16.10.2019 21:51:46 => Приложение запущено
+
+16.10.2019 21:51:47 => Start hoarding
+16.10.2019 21:53:04 => Приложение запущено
+
+16.10.2019 21:53:13 => Start hoarding
+16.10.2019 22:09:35 => Приложение запущено
+
+16.10.2019 22:09:36 => Start hoarding
+16.10.2019 22:15:53 => Приложение запущено
+
+16.10.2019 22:15:54 => Start hoarding
+16.10.2019 22:16:24 => Error retrieving data from source  : Поток StandardIn не был перенаправлен.
+16.10.2019 22:16:55 => Приложение запущено
+
+16.10.2019 22:16:56 => Start hoarding
+16.10.2019 22:40:50 => Приложение запущено
+
+16.10.2019 22:40:51 => Start hoarding
+16.10.2019 22:44:50 => Приложение запущено
+
+16.10.2019 22:44:51 => Start hoarding
+16.10.2019 22:50:36 => Приложение запущено
+
+16.10.2019 22:50:37 => Start hoarding
+16.10.2019 22:51:49 => Приложение запущено
+
+16.10.2019 22:51:51 => Start hoarding
+16.10.2019 22:52:59 => Приложение запущено
+
+16.10.2019 22:53:01 => Start hoarding
+16.10.2019 22:57:25 => Приложение запущено
+
+16.10.2019 22:57:28 => Start hoarding
+16.10.2019 22:58:37 => Приложение запущено
+
+16.10.2019 22:58:38 => Start hoarding
+17.10.2019 9:21:52 => Приложение запущено
+
+17.10.2019 9:21:54 => Start hoarding
+17.10.2019 9:23:08 => Приложение запущено
+
+17.10.2019 9:23:10 => Start hoarding
+17.10.2019 9:24:01 => Приложение запущено
+
+17.10.2019 9:24:02 => Start hoarding
+17.10.2019 9:24:59 => Stop hoarding
+17.10.2019 9:43:43 => Приложение запущено
+
+17.10.2019 9:43:44 => Start hoarding
+17.10.2019 9:45:19 => Приложение запущено
+
+17.10.2019 9:45:43 => Start hoarding
+17.10.2019 9:49:24 => Приложение запущено
+
+17.10.2019 9:53:04 => Приложение запущено
+
+17.10.2019 9:57:03 => Приложение запущено
+
+17.10.2019 10:50:41 => Приложение запущено
+
+17.10.2019 10:54:48 => Приложение запущено
+
+17.10.2019 11:01:51 => Приложение запущено
+
+17.10.2019 11:01:52 => Start hoarding
+17.10.2019 11:03:45 => Unable to download file! https://arxiv.org/abs/0711.0028217.10.2019 11:08:35 => Stop hoarding
