@@ -42,7 +42,8 @@ class Pickler:
         return 'pickle'
 
     def save(self):
-        vars_for_save = self._do_name_filter()  # Выберем переменные для сохранения
+        vars_for_save = list(self._do_name_filter())  # Выберем переменные для сохранения
+        print(vars_for_save)
         for variable_name in vars_for_save:
             variable_value = globals()[variable_name]  # Извлекаем значение переменной
             save_type: str = self._do_save_type(variable_value)  # Определяем тип переменной
