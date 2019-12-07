@@ -1,0 +1,9 @@
+exclution_vars: ['__name__', '__doc__', '__package__', '__loader__', '__spec__',
+                  '__builtin__', '__builtins__', '_ih', '_oh', '_dh', '_sh', 'In',
+                  'Out', 'get_ipython', 'exit', 'quit', '_', '__', '___', '_i', '_ii',
+                  '_iii', '_i1', '_1', '_i2', '_2', '_i3',
+
+                 '__name__', '__doc__', '__package__', '__loader__', '__spec__',
+                 '__builtin__', '__builtins__', '_ih', '_oh', '_dh', 'In', 'Out',
+                 'get_ipython', 'exit', 'quit', '_', '__', '___', '_i', '_ii', '_iii',
+                 '_i1', '_1', '_i2', '_2', '_i3', '_3', '_i4']
