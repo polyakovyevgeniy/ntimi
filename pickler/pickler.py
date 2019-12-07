@@ -6,12 +6,14 @@ from typing import List
 
 class Pickler:
     """
-    Описывает класс для сохранения/восстановления переменных их файлов
+    Описывает класс для сохранения/восстановления переменных
     """
 
-    def __init__(self, exclution_vars: List[str] = [],
+    def __init__(self, context: object,  exclution_vars: List[str] = [],
                  var_prefix: str = 'gv',
                  store_path: str = "vars/", config_path='config.yaml'):
+
+        self.context = context
         self.exclution_vars: List[str] = exclution_vars
         self.var_prefix: str = var_prefix
         self.store_path: str = store_path
@@ -29,7 +31,7 @@ class Pickler:
 
     def _do_name_filter(self):
         # Проходим по глобальным переменным и выбираем переменные с префиксом
-        variable_names = list(globals().keys()).copy()
+        variable_names = list(self.context.keys()).copy()
         for var in variable_names:
             if var not in self.exclution_vars:  # Если переменная не в списке исклбчения
                 if var.startswith(self.var_prefix):  # Если переменная содержит префикс
@@ -43,9 +45,8 @@ class Pickler:
 
     def save(self):
         vars_for_save = list(self._do_name_filter())  # Выберем переменные для сохранения
-        print(vars_for_save)
         for variable_name in vars_for_save:
-            variable_value = globals()[variable_name]  # Извлекаем значение переменной
+            variable_value = self.context[variable_name]  # Извлекаем значение переменной
             save_type: str = self._do_save_type(variable_value)  # Определяем тип переменной
             self._save(save_type, variable_name, variable_value)  # Сохраняем переменную
 
@@ -55,20 +56,41 @@ class Pickler:
             self._save_pickle(variable_value, new_variable_name)
 
     def load(self):
+        loaded_vars = {}
         for var_path in os.listdir(self.store_path):
             load_type = self._do_load_type(var_path)
             variable_name = var_path.split('.')[0]
-            self._load(load_type, variable_name, var_path)
+            new_variable_name = variable_name.split("_")[0]  # Новое имя для переменной
+            loaded_vars[new_variable_name] = self._load(load_type, new_variable_name, var_path)
+        return loaded_vars
 
-    def _load(self, load_type, variable_name, variable_path):
-        new_variable_name = variable_name.split("_")[0]  # Новое имя для переменной
+    def _load(self, load_type: str, variable_name, variable_path) -> object:
+        """
+        Восстанавливает переменные из файла
+        @param load_type: str
+            Тип сохраненной переменной(извлекается из имени файла)
+        @param variable_name: str
+            Имя переменной
+        @param variable_path: str
+            Путь к переменной
+        @return: object
+            Объект загруженной переменной
+        """
         if load_type == "pickle":
-            self._load_pickle(new_variable_name, variable_path)
+            return self._load_pickle(variable_name, variable_path)
 
-    def _save_pickle(self, var, name):
+    def _save_pickle(self, var: object, name: str):
+        """
+        Сохраняет переменную в pickle файл
+        @param var: object
+            Значение переменной
+        @param name: str
+            Имя переменной
+        @return: None
+        """
         if not os.path.exists(self.store_path):
             os.makedirs(self.store_path)
         pickle.dump(var, open(f"{self.store_path}{name}{'.pkl'}", "wb"))
 
     def _load_pickle(self, variable_name, variable_path):
-        globals()[variable_name] = pickle.load(open(f"{self.store_path}{variable_path}", "rb"))
+        return pickle.load(open(f"{self.store_path}{variable_path}", "rb"))
