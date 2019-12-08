@@ -9,11 +9,9 @@ class Pickler:
     Описывает класс для сохранения/восстановления переменных
     """
 
-    def __init__(self, context: object,  exclution_vars: List[str] = [],
+    def __init__(self, exclution_vars: List[str] = [],
                  var_prefix: str = 'gv',
                  store_path: str = "vars/", config_path='pickler/config.yaml'):
-
-        self.context = context
         self.exclution_vars: List[str] = exclution_vars
         self.var_prefix: str = var_prefix
         self.store_path: str = store_path
@@ -43,7 +41,8 @@ class Pickler:
     def _do_load_type(self, variable_name) -> str:
         return 'pickle'
 
-    def save(self, silent: bool = True):
+    def save(self, context: object, silent: bool = True):
+        self.context = context # Глобальные переменные окружения
         vars_for_save = list(self._do_name_filter())  # Выберем переменные для сохранения
         for variable_name in vars_for_save:
             variable_value = self.context[variable_name]  # Извлекаем значение переменной
