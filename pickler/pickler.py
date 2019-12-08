@@ -96,6 +96,14 @@ class Pickler:
             print(f"Variables Count: {len(list_vars)}")
         return list_vars
 
+    def add_exclition_vars(self, vars: List[str], silent: bool = True):
+        self.exclution_vars = list(set(self.exclution_vars + vars))
+        if not silent:
+            print(f"Exclution vars: {len(self.exclution_vars)}")
+
+    def show_exclution_vars(self):
+        return self.exclution_vars
+
     def _save_pickle(self, var: object, name: str):
         """
         Сохраняет переменную в pickle файл
