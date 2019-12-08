@@ -11,7 +11,7 @@ class Pickler:
 
     def __init__(self, context: object,  exclution_vars: List[str] = [],
                  var_prefix: str = 'gv',
-                 store_path: str = "vars/", config_path='config.yaml'):
+                 store_path: str = "vars/", config_path='pickler/config.yaml'):
 
         self.context = context
         self.exclution_vars: List[str] = exclution_vars
@@ -91,7 +91,7 @@ class Pickler:
         @return: List[str]
             Список переменных
         """
-        list_vars = self._do_name_filter()
+        list_vars = list(self._do_name_filter())
         if not silent:
             print(f"Variables Count: {len(list_vars)}")
         return list_vars
