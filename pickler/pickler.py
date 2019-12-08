@@ -27,9 +27,9 @@ class Pickler:
         # Переменные для исключения из сохранения
         self.exclution_vars = list(set(self.exclution_vars + self.config['exclution_vars']))
 
-    def _do_name_filter(self):
+    def _do_name_filter(self, context: object):
         # Проходим по глобальным переменным и выбираем переменные с префиксом
-        variable_names = list(self.context.keys()).copy()
+        variable_names = list(context.keys()).copy()
         for var in variable_names:
             if var not in self.exclution_vars:  # Если переменная не в списке исклбчения
                 if var.startswith(self.var_prefix):  # Если переменная содержит префикс
@@ -42,10 +42,9 @@ class Pickler:
         return 'pickle'
 
     def save(self, context: object, silent: bool = True):
-        self.context = context # Глобальные переменные окружения
-        vars_for_save = list(self._do_name_filter())  # Выберем переменные для сохранения
+        vars_for_save = list(self._do_name_filter(context))  # Выберем переменные для сохранения
         for variable_name in vars_for_save:
-            variable_value = self.context[variable_name]  # Извлекаем значение переменной
+            variable_value = context[variable_name]  # Извлекаем значение переменной
             save_type: str = self._do_save_type(variable_value)  # Определяем тип переменной
             self._save(save_type, variable_name, variable_value)  # Сохраняем переменную
         if not silent:
@@ -82,15 +81,17 @@ class Pickler:
         if load_type == "pickle":
             return self._load_pickle(variable_name, variable_path)
 
-    def get_variables(self, silent: bool = False)-> List[str]:
+    def get_variables(self, context: object, silent: bool = False) -> List[str]:
         """
         Возвращает список переменных которые будут сериализованы
+        @param context: object
+            Окружение переменных среды
         @param silent: bool
             Флаг, показывать сообщение с количеством переменных или нет
         @return: List[str]
             Список переменных
         """
-        list_vars = list(self._do_name_filter())
+        list_vars = list(self._do_name_filter(context))
         if not silent:
             print(f"Variables Count: {len(list_vars)}")
         return list_vars
