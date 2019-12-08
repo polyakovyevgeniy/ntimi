@@ -43,25 +43,29 @@ class Pickler:
     def _do_load_type(self, variable_name) -> str:
         return 'pickle'
 
-    def save(self):
+    def save(self, silent: bool = True):
         vars_for_save = list(self._do_name_filter())  # Выберем переменные для сохранения
         for variable_name in vars_for_save:
             variable_value = self.context[variable_name]  # Извлекаем значение переменной
             save_type: str = self._do_save_type(variable_value)  # Определяем тип переменной
             self._save(save_type, variable_name, variable_value)  # Сохраняем переменную
+        if not silent:
+            print(f"Saved {len(vars_for_save)} variables.")
 
     def _save(self, save_type, variable_name, variable_value):
         new_variable_name = f"{variable_name}_{save_type}"  # Новое имя для переменной
         if save_type == "pickle":
             self._save_pickle(variable_value, new_variable_name)
 
-    def load(self):
+    def load(self, silent: bool = True):
         loaded_vars = {}
         for var_path in os.listdir(self.store_path):
             load_type = self._do_load_type(var_path)
             variable_name = var_path.split('.')[0]
             new_variable_name = variable_name.split("_")[0]  # Новое имя для переменной
             loaded_vars[new_variable_name] = self._load(load_type, new_variable_name, var_path)
+        if not silent:
+            print(f"Loaded {len(loaded_vars)} variables.")
         return loaded_vars
 
     def _load(self, load_type: str, variable_name, variable_path) -> object:
@@ -78,6 +82,19 @@ class Pickler:
         """
         if load_type == "pickle":
             return self._load_pickle(variable_name, variable_path)
+
+    def get_variables(self, silent: bool = False)-> List[str]:
+        """
+        Возвращает список переменных которые будут сериализованы
+        @param silent: bool
+            Флаг, показывать сообщение с количеством переменных или нет
+        @return: List[str]
+            Список переменных
+        """
+        list_vars = self._do_name_filter()
+        if not silent:
+            print(f"Variables Count: {len(list_vars)}")
+        return list_vars
 
     def _save_pickle(self, var: object, name: str):
         """
